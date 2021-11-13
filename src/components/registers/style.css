@@ -1,0 +1,9 @@
+.container_register_pai{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('https://gtaland.net/wp-content/uploads/2020/01/1392469160_GTA%20V%20Background%20HD%20Towelie_GTALand.net.jpg');
+    background-position: center;
+    background-size: cover;
+}
